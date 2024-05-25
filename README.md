@@ -2,7 +2,7 @@
 # Electric Car Class Implementation Challenge
 
 ## Overview
-This project is designed to enhance your understanding of inheritance in object-oriented programming by extending a `Car` class to create an `Electric Vehicle (EV)` class. The EV class will include additional properties and methods specific to electric vehicles.
+This project is designed to enhance my understanding of inheritance in object-oriented programming by extending a `Car` class to create an `Electric Vehicle (EV)` class. The EV class will include additional properties and methods specific to electric vehicles.
 
 ## Objectives
 - Implement the EV class by extending the Car class.
